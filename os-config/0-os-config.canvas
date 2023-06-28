@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"type":"text","text":"# `os-config` CLI tool\n","id":"354647bc90e16a72","x":-1454,"y":-1160,"width":387,"height":80,"color":"5"},
+		{"type":"file","file":"os-config/generate-api-key.md","id":"139c369751aceecd","x":-1724,"y":-1020,"width":664,"height":640}
+	],
+	"edges":[]
+}

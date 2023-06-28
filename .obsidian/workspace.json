@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "bbe0c6734a8633cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "83bae5f051e78ef9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9065c2b3f4034387",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "os-config/0-os-config.canvas",
+                "viewState": {
+                  "x": -121.01812529642962,
+                  "y": -454.3153944243968,
+                  "zoom": -1.1199999999999994
+                }
+              }
+            }
+          },
+          {
+            "id": "5c0ca84dd2221f85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "os-config/generate-api-key.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1008b2714bf78c17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "os-config/leave.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62a7c99c4ffabb4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "os-config/join.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7414fe15edf58167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "os-config/update.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef8f1e5633e7f6c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2de056ba9eb6c041",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f80bbd8c15c7772",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94a18b2479f52bba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba7ba6368ffd32af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "395fa5c62fa9928f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2b53f338435529d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a2052aef1b57fbd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "os-config/update.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a55fadfa51fae67f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "os-config/update.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6341df45d7d92446",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "64ea4bafbef7c9e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "os-config/update.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "64ea4bafbef7c9e5",
+  "lastOpenFiles": [
+    "os-config/leave.md",
+    "os-config/join.md",
+    "os-config/0-os-config.canvas",
+    "os-config/generate-api-key.md",
+    "os-config/src->main.rs.md",
+    "os-config/update.md",
+    "os-config/Untitled.canvas",
+    "index.md",
+    "os-config"
+  ]
+}
