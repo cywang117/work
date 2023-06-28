@@ -12,5 +12,5 @@ If generated, write the key to `config.json`, where the change will be picked up
 - `config_json.rs`
 	- [ ] Unit tests
 	- [ ] Generalized `get` & `set` methods for getting & setting individual or groups of config key-values
-	- [ ] Insert as new key-value pair if defined in `os-config.json` schema but doesn't exist in `config.json`
-	- [ ] Method for removal 
+		- [ ] Insert as new key-value pair if defined in `os-config.json` schema but doesn't exist in `config.json`
+		- [ ] Method for removal 
